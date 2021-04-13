@@ -1,3 +1,9 @@
-NIM :1811500059
-NAMA : MARYATUL FADILAH
-KELOMPOK : T16J
+NIM :1811500059<br>
+NAMA : MARYATUL FADILAH<br>
+KELOMPOK : T16J<br>
+<br>
+hasil saya menyadur :<br>
+1. buat kelompok presentasi 3 orang per kelompok<br>
+2. software mata kuliah ini adalah astah comunity 6<br>
+3. penilaian akhir di hitung dari nilai tugas, absen, uas dan uts<br>
+4. buat saduran di setiap pertemuan mata kuliah analisis dan perancangan RPL<br>
